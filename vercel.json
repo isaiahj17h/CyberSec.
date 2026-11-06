@@ -1,0 +1,13 @@
+{
+  "outputDirectory": "public",
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/isaiah.vcf",
+      "headers": [
+        { "key": "Content-Type", "value": "text/vcard; charset=utf-8" },
+        { "key": "Content-Disposition", "value": "attachment; filename=\"Isaiah_Hernandez_Brightspeed.vcf\"" }
+      ]
+    }
+  ]
+}
